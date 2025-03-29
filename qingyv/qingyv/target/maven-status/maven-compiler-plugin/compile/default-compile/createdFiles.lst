@@ -1,0 +1,17 @@
+Reversi\qingyv\Main.class
+Reversi\qingyv\Cell.class
+Reversi\qingyv\Chess.class
+Reversi\qingyv\Utils.class
+Reversi\qingyv\Reversi.class
+Reversi\qingyv\BlackChess.class
+Reversi\qingyv\Field.class
+Reversi\qingyv\GameLauncher.class
+Reversi\qingyv\ChessGame.class
+Reversi\qingyv\GameLauncher$gameFunctionalities.class
+Reversi\qingyv\QingyvApplication.class
+Reversi\qingyv\Player.class
+Reversi\qingyv\InputUtils.class
+Reversi\qingyv\Peace.class
+Reversi\qingyv\NumberAndLetter.class
+Reversi\qingyv\GameLauncher$chessColor.class
+Reversi\qingyv\WhiteChess.class
